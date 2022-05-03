@@ -1,0 +1,22 @@
+{
+  "name": "demoheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongomin256/DemoHeroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bongomin256/DemoHeroku/issues"
+  },
+  "homepage": "https://github.com/bongomin256/DemoHeroku#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
